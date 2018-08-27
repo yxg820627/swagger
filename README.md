@@ -1,6 +1,5 @@
 swagger-bootstrap-ui
 =========================
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.xiaoymin/swagger-bootstrap-ui/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.xiaoymin/swagger-bootstrap-ui)
 
 ## 简介
 
@@ -8,28 +7,10 @@ swagger-bootstrap-ui
 
 `swagger-bootstrap-ui` 只是`Swagger`的UI实现,并不是替换`Swagger`功能,所以后端模块依然是依赖`Swagger`的,需要配合`Swagger`的注解达到效果,[注解说明](swagger-annotation.md)
 
-在线效果体验:[http://swagger-bootstrap-ui.xiaominfo.com/doc.html](http://swagger-bootstrap-ui.xiaominfo.com/doc.html)
-
-## 功能
-
-
-* 接口文档说明,效果图如下：
-
-
-
-![](https://static.oschina.net/uploads/space/2018/0716/075136_60JO_254762.png)
-
-* 在线调试功能,效果图如下:
-
-![](https://static.oschina.net/uploads/space/2018/0716/075225_WazR_254762.png)
-
-## demo演示
-
-[swagger-bootstarp-ui-demo](http://git.oschina.net/xiaoym/swagger-bootstrap-ui-demo)
 
 ## 下载
 
-`swagger-bootstrap-ui`下载地址：[下载](http://git.oschina.net/xiaoym/swagger-bootstrap-ui/releases)
+`swagger-bootstrap-ui`下载地址：[下载](https://gitee.com/umltech/swagger-bootstrap-ui.git)
 
 ## 使用说明
 
@@ -58,9 +39,9 @@ swagger-bootstrap-ui
 
 ```java
 <dependency>
-  <groupId>com.github.xiaoymin</groupId>
+  <groupId>com.github.yangxg</groupId>
   <artifactId>swagger-bootstrap-ui</artifactId>
-  <version>1.6</version>
+  <version>1.8.1</version>
 </dependency>
 ```
 
@@ -128,15 +109,4 @@ public class SwaggerConfiguration {
 </servlet-mapping>
 
 ```
-
-## 交流
-
-QQ群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=16b81902c23fbca82780fa107da1b6612e2ee44a05c4103c9176ad9d61c2f6bf"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="XM开源技术交流群" title="XM开源技术交流群"></a> 608374991
-
-
-## 捐赠
-
-无论捐赠金额多少都足够表达您这份心意,非常感谢!!!谢谢~~~:)  
-
-[前往捐赠](http://www.xiaominfo.com/donate)
 
