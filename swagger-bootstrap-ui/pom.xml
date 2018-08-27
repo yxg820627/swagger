@@ -4,21 +4,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.xiaoymin</groupId>
+    <groupId>com.github.yangxg</groupId>
     <artifactId>swagger-bootstrap-ui</artifactId>
     <version>1.8.1</version>
     <name>swagger-bootstrap-ui</name>
     <description>Swagger-Bootstrap-UI is the front of the UI Swagger implementation, using jQuery+bootstrap implementation, the purpose is to replace the default UI Swagger implementation of the Swagger-UI, so that the document is more friendly...</description>
-    <url>https://git.oschina.net/xiaoym/swagger-bootstrap-ui</url>
+    <url>https://gitee.com/umltech/swagger-bootstrap-ui</url>
     <developers>
         <developer>
-            <id>xiaoym</id>
-            <name>肖玉民</name>
-            <email>xiaoymin@foxmail.com</email>
+            <id>yangxg</id>
+            <name>yangxg</name>
+            <email>yxg820627@gmail.com</email>
             <roles>
                 <role>Java Development Engineer</role>
             </roles>
-            <timezone>2017-4-17 18:05:10</timezone>
+            <timezone>2018-8-27 18:05:10</timezone>
         </developer>
     </developers>
     <properties>
@@ -33,11 +33,6 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
-    <scm>
-        <connection>scm:git@git.oschina.net:xiaoym/swagger-bootstrap-ui.git</connection>
-        <developerConnection>scm:git@git.oschina.net:xiaoym/swagger-bootstrap-ui.git</developerConnection>
-        <url>git@git.oschina.net:xiaoym/swagger-bootstrap-ui.git</url>
-    </scm>
     <distributionManagement>
         <snapshotRepository>
             <id>oss</id>
